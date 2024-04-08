@@ -18,3 +18,4 @@ Ele serve para gerenciar as diferentes alterações que diferentes usuários de 
 
 ## O que é?
 
+É um plataforma onde usuários postam seus códigos fonte e arquivos com controle de versão ultilizando o Git. Assim progamadores que usam o git, ou apenas usuários do Github. Conseguem participar de 
