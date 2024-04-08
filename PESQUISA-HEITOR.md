@@ -31,3 +31,7 @@ Serve para os que ultilizam conseguirem criar projetos junto com outros usuário
 ## O que é?
 
 É um progama de edição de código que suporta várias linguagens de progamação. Ele aixilia na criação do código mostrando os erros e indicando onde eles estam, e também tem uma aba de extensões, onde você pode baixar várias opções para ajudar na produção do seu código ou apenas personalizar a sua área de trabalho.
+
+## Para que serve?
+
+Serve para deixar a progamação mais prática e bonita auxiliando na produção do código.
